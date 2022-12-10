@@ -1,4 +1,4 @@
-<!-- VuongKhacDuy -->
+<!-- VKDuy -->
 <a href="#" target="_blank">
   <img src="svg/VuongDuy.svg" width="1200" alt="vuongkhacduy-official" />
 </a>
