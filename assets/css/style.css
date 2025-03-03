@@ -553,6 +553,11 @@ section {
   margin-right: 0;
 }
 
+.portfolio-wrap {
+  border-radius: 15px;
+  overflow: hidden;
+}
+
 .portfolio .portfolio-wrap {
   transition: 0.3s;
   position: relative;
