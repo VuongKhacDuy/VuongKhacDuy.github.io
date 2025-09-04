@@ -19,34 +19,34 @@ const About = () => (
         </div>
         
         <div className="personal-info">
-          <h3>iOS Developer.</h3>
+          <h3>iOS Developer</h3>
           <div className="info-grid">
             <div className="info-column">
               <div className="info-item">
-                <strong>Birthday:</strong> 19 March 1996
+                <i className="bx bx-chevron-right"></i> <strong>Birthday:</strong> 19 March 1996
               </div>
               <div className="info-item">
-                <strong>Website:</strong> VuongKhacDuy.github.io
+                <i className="bx bx-chevron-right"></i> <strong>Website:</strong> VuongKhacDuy.github.io
               </div>
               <div className="info-item">
-                <strong>Phone:</strong> (+84) 902844839
+                <i className="bx bx-chevron-right"></i> <strong>Phone:</strong> (+84) 902844839
               </div>
               <div className="info-item">
-                <strong>City:</strong> Ho Chi Minh City, Viet Nam
+                <i className="bx bx-chevron-right"></i> <strong>City:</strong> Ho Chi Minh City, Viet Nam
               </div>
             </div>
             <div className="info-column">
               <div className="info-item">
-                <strong>Age:</strong> 29
+                <i className="bx bx-chevron-right"></i> <strong>Age:</strong> 29
               </div>
               <div className="info-item">
-                <strong>Email:</strong> vuongkhacduy@gmail.com
+                <i className="bx bx-chevron-right"></i> <strong>Email:</strong> vuongkhacduy@gmail.com
               </div>
               <div className="info-item">
-                <strong>Status:</strong> Open to work
+                <i className="bx bx-chevron-right"></i> <strong>Status:</strong> Open to work
               </div>
               <div className="info-item">
-                <strong>Freelance:</strong> Available
+                <i className="bx bx-chevron-right"></i> <strong>Freelance:</strong> Available
               </div>
             </div>
           </div>
