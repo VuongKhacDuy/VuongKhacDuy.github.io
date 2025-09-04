@@ -290,12 +290,12 @@ body {
 	padding: 40px 0;
 }
 
-.section-title h2 {
+/* .section-title h2 {
 	color: #fff;
 	margin-bottom: 10px;
 	font-size: 2.5rem;
 	text-shadow: 1px 1px 8px #222;
-}
+} */
 .section-title p {
 	color: #eee;
 	font-size: 1.2rem;
@@ -377,10 +377,10 @@ body {
 	padding: 20px;
 }
 
-.section-title h2 {
+/* .section-title h2 {
 	color: #222;
 	margin-bottom: 10px;
-}
+} */
 .section-title p {
 	color: #555;
 }
@@ -667,7 +667,7 @@ body {
 
 .section-title h2 {
 	font-size: 2.5rem;
-	color: #fff;
+	color: #173b6c;
 	margin-bottom: 10px;
 	text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
 }
@@ -862,11 +862,11 @@ body {
 }
 
 /* About Section */
-.about-content {
+/* .about-content {
 	color: #fff;
 	max-width: 1000px;
 	margin: 0 auto;
-}
+} */
 
 .about-description {
 	margin-bottom: 40px;
@@ -882,7 +882,7 @@ body {
 	font-size: 1rem;
 	line-height: 1.6;
 	margin-bottom: 10px;
-	color: #fff;
+	color: #000000;
 }
 
 .personal-info {
@@ -911,15 +911,16 @@ body {
 .info-item {
 	font-size: 1rem;
 	line-height: 1.5;
-	color: #fff;
+	color: #000000;
 }
 
 .info-item strong {
-	color: #00bcd4;
+	color: #272829;
 	margin-right: 5px;
 }
 
 .skills-section, .business-skills-section {
+	/* background-color: #f5f8fd; */
 	margin-bottom: 40px;
 }
 
@@ -938,7 +939,7 @@ body {
 .skills-description p, .business-skills-description p {
 	font-size: 1.1rem;
 	margin-bottom: 15px;
-	color: #fff;
+	color: #000000;
 	font-weight: 500;
 }
 
@@ -951,7 +952,7 @@ body {
 	font-size: 1rem;
 	line-height: 1.6;
 	margin-bottom: 8px;
-	color: #fff;
+	color: #000000;
 }
 
 /* Resume Section */
@@ -1169,9 +1170,9 @@ body {
 		font-size: 2rem;
 	}
 	
-	.section-title h2 {
+	/* .section-title h2 {
 		font-size: 2rem;
-	}
+	} */
 	
 	.portfolio-grid {
 		grid-template-columns: 1fr;

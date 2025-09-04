@@ -23,13 +23,13 @@ const About = () => (
           <div className="info-grid">
             <div className="info-column">
               <div className="info-item">
-                <strong>Birthday:</strong> 14 March 1990
+                <strong>Birthday:</strong> 19 March 1996
               </div>
               <div className="info-item">
                 <strong>Website:</strong> VuongKhacDuy.github.io
               </div>
               <div className="info-item">
-                <strong>Phone:</strong> (+84) 962844379
+                <strong>Phone:</strong> (+84) 902844839
               </div>
               <div className="info-item">
                 <strong>City:</strong> Ho Chi Minh City, Viet Nam
@@ -37,7 +37,7 @@ const About = () => (
             </div>
             <div className="info-column">
               <div className="info-item">
-                <strong>Age:</strong> 34
+                <strong>Age:</strong> 29
               </div>
               <div className="info-item">
                 <strong>Email:</strong> vuongkhacduy@gmail.com
@@ -57,15 +57,15 @@ const About = () => (
           <div className="skills-description">
             <p>5 years experienced iOS programming using Swift</p>
             <ul>
-              <li>Experience working with HTTP and Restful frameworks</li>
-              <li>Experience working with Model-MVC, MVVM-Viper, Coordinator</li>
-              <li>Experience working with Rx/Swift, third-party libraries, UIKit SwiftUI</li>
-              <li>Experience working with Core Data, Firebase, SQLite, Core Files</li>
-              <li>Familiarity with JSON and REST based APIs</li>
-              <li>Experience working with Firebase, MongoDB</li>
-              <li>Experience working with Xcode, Github</li>
-              <li>Tools we used: Git, Gitlab, Bitbucket, Jira Software, Slack, Jama XCode, TakePass, Graphql, Postman, visual studio code, Anaconda, Jupyter Notebook, Google Colab</li>
-              <li>Effective organization of ideas for logical presentation and appropriate communication, interpersonal skills.</li>
+              <li>Experience working with UIKit and SwiftUI frameworks</li>
+              <li>Experience working with Model MVC, MVVM, Viper, CocoaPods</li>
+              <li>Experience working with UIKit, SwiftUI, RxSwift, third-party libraries</li>
+              <li>Experience working with Python, Keras, TensorFlow</li>
+              <li>Familiarity with JSON and REST-based APIs</li>
+              <li>Experience working with Firebase, MongoDB </li>
+              <li>Experience working with SVN</li>
+              <li>Tools we use: Git, Gitlab, Bitbucket, Jira Software, Slack, latest XCode, TablePlus, GraphQL, Postman, visual studio code, Anaconda, Jupyter Notebook, Google Colab</li>
+              <li>Effective organization of ideas for logical presentation and acceptance, communication, interpersonal skills.</li>
             </ul>
           </div>
         </div>
@@ -76,15 +76,15 @@ const About = () => (
             <p>Foundation Business Analyst</p>
             <ul>
               <li>Analytical skills</li>
-              <li>Communication</li>
+              <li>Elicitation technique</li>
               <li>Draw Wireframe</li>
               <li>Use Case Diagram (UCD)</li>
               <li>Entity Relationship Diagram (ERD)</li>
-              <li>Analytical and design Unified Modelling Language (UML)</li>
-              <li>Documenting Business Requirements Specification (BRS)</li>
+              <li>Analytical and design Unified Modeling Language (UML)</li>
+              <li>Write report Software Requirement Specification (SRS)</li>
               <li>Adaptability</li>
               <li>Problem solving skill</li>
-              <li>Research skill</li>
+              <li>Flexibility skill</li>
               <li>Presentation skill</li>
               <li>Collaboration skill</li>
               <li>Time Management skill</li>
